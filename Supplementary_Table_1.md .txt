@@ -1,0 +1,24 @@
+# Supplementary Table 1 — Inheritance Pattern and Associated Diseases
+
+| Inheritance Pattern | Disease Name                                                     |
+|---------------------|------------------------------------------------------------------|
+| AD                  | Autosomal dominant polycystic kidney disease                    |
+| AD                  | Bardet-Biedl                                                     |
+| AD                  | Episodic kinesigenic dyskinesia                                 |
+| AD                  | Familial cylindromatosis                                         |
+| AD                  | KBG syndrome                                                     |
+| AD                  | Polycystic kidney disease                                        |
+| AD                  | Polycystic kidney disease, adult type                           |
+| AD                  | Rubinstein-Taybi syndrome                                        |
+| AD                  | Rubinstein-Taybi syndrome due to CREBBP mutations               |
+| AD                  | Townes-Brocks syndrome 1                                         |
+| AD                  | Tuberous sclerosis syndrome                                      |
+| AR                  | Bardet-Biedl syndrome                                            |
+| AR                  | Familial hypokalemia-hypomagnesemia                             |
+| AR                  | Fanconi anemia                                                   |
+| AR                  | Fanconi anemia \| Fanconi anemia complementation group A        |
+| AR                  | Joubert syndrome; Meckel-Gruber syndrome                        |
+| AR                  | MHC class II deficiency                                          |
+| AR                  | Mucopolysaccharidosis, MPS-IV-A                                  |
+| AR                  | Neuronal ceroid lipofuscinosis                                   |
+| AR                  | Alpha thalassemia                                                |
